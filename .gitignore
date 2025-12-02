@@ -1,0 +1,39 @@
+# OS junk
+Thumbs.db
+.DS_Store
+
+# Visual Studio / MSVC build output
+*.obj
+*.pch
+*.pdb
+*.idb
+*.ilk
+*.log
+*.tlog/
+*.lastbuildstate
+*.ipch
+*.exp
+*.lib
+*.exe
+*.dll
+*.manifest
+*.VC.db
+*.VC.opendb
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+.vs/
+
+# Build artifacts
+CalmFlight.exe
+CalmFlight.ilk
+CalmFlight.pdb
+main.obj
+vc140.pdb
